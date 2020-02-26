@@ -1,0 +1,1 @@
+When you’re done working, you can use the fh.close() command to end things. What this does is close the file completely, terminating resources in use, in turn freeing them up for the system to deploy elsewhere. 
